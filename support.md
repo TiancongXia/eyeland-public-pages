@@ -22,8 +22,6 @@ Yes. Open the App Store, tap your profile > Subscriptions, and manage your Eyela
 
 If you're still having trouble, feel free to reach out:
 
-- Email: `eyeland.support@example.com`  
-- Twitter: [@EyelandApp](https://twitter.com/eyelandapp)  
-- GitHub / Notion / Contact Page: [https://yourdomain.com/support](https://yourdomain.com/support)
+- Email: `xiatiancong@outlook.com` 
 
 Thank you for using Eyeland ❤️
