@@ -25,7 +25,7 @@ We use silent or live push notifications to update the app's animation or displa
 
 ## 4. Contact
 
-For questions, feedback, or support, please visit our [Support Page](https://yourdomain.com/support).
+For questions, feedback, or support, please visit our [Support Page](https://tiancongxia.github.io/eyeland-public-pages/support.md).
 
 ---
 
