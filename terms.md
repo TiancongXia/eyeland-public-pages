@@ -30,4 +30,5 @@ We may update these terms at any time. Continued use of the app means you accept
 
 ## 6. Contact
 
-If you have any questions, please visit our [Support Page](https://yourdomain.com/support).
+If you have any questions, please visit our [Support Page](https://tiancongxia.github.io/eyeland-public-pages/support.md).
+
